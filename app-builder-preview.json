@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "أفق",
+      "hasCanvas": true,
+      "bodyTextLen": 205,
+      "bodyTextHash": "f1fda376a9cc8bbf05649252052989335ff6b80766834058931fe48210a53f5d",
+      "bodyTextPrefix": "UFUQ أفق مغامرة منصات ثلاثية الأبعاد فوق جزر السماء. اركض، اقفز،",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "أفق",
+      "hasCanvas": true,
+      "bodyTextLen": 205,
+      "bodyTextHash": "f1fda376a9cc8bbf05649252052989335ff6b80766834058931fe48210a53f5d",
+      "bodyTextPrefix": "UFUQ أفق مغامرة منصات ثلاثية الأبعاد فوق جزر السماء. اركض، اقفز،",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
